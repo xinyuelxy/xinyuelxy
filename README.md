@@ -1,4 +1,4 @@
-### Hi👋, I'm Xinyue (Kairos)
+### Hi👋, I'm Xinyue
 
 - 🔭 I’m currently working on computer science
 - 😁 My research focuses on **trustworthy AI software**, especially on **fairness**
